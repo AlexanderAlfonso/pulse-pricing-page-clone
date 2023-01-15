@@ -395,8 +395,9 @@ footer {
 
     /* NAVBAR  */
     .navbar {
-        padding: 56px 16px;
-        background-color: var(--white);
+        padding: 24px 16px;
+        margin-bottom: 32px;
+        margin-top: 32px;
     }
 
     .navbar-brand img {
@@ -487,8 +488,7 @@ footer {
 
     /* NAVBAR  */
     .navbar {
-        padding: 56px 16px;
-        background-color: var(--white);
+        padding: 60px 32px;
     }
 
     /* HEADER SECTION  */
@@ -558,7 +558,6 @@ footer {
     /* NAVBAR  */
     .navbar {
         padding: 60px 60px;
-        background-color: var(--white);
     }
 
     /* HEADER SECTION  */
