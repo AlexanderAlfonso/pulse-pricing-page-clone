@@ -328,6 +328,7 @@ footer {
     font-weight: 700;
     border: none;
     background-color: var(--light-green);
+    color: var(--black);
     transition: 0.3s;
 }
 
